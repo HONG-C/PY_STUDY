@@ -1,3 +1,8 @@
+#파일 실행법
+#1.cd PY_STUDY
+#2.python3 PY_STUDY_03.py 
+
+
 #챕터1
 print("챕터1")
 age=4
